@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = '0537628dcb154510883182337251604';
+const API_KEY = 'ADD YOU API KEY HERRE';
 const BASE_URL = `https://api.weatherapi.com/v1/forecast.json?key=${API_KEY}&aqi=yes&hours=6`;
 
 const fetchWeather = async (city) => {
