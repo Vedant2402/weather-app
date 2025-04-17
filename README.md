@@ -1,5 +1,7 @@
 #Day 2 of the 15-days Project Challenge
 
+Live Project - https://weatherclimate1.netlify.app/
+
 # weather-app
 
 This is a simple and beautiful React-based Weather App that lets users search for any city and get real-time weather conditions and air quality index (AQI). The app also dynamically changes its background color based on the current weather conditions, powered by WeatherAPI.  
